@@ -3,4 +3,3 @@ pandas
 numpy
 plotly
 prophet
-pystan==2.19.1.1
